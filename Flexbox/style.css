@@ -1,0 +1,19 @@
+*{
+	padding: 0;
+   margin: 0;
+   box-sizing: border-box;
+}
+.container{
+display: flex;
+flex-wrap: wrap;
+background: lightcyan;
+
+}
+
+.box-Item{
+	padding: 20px;
+	margin: 10px;
+	border: 2px solid black;
+	width: 310px;
+	height: 260px;
+}
